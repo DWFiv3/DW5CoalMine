@@ -22,5 +22,6 @@
         "game-graph": [
             "file(DW5CoalMine.json)"
         ]
-    }
+    },
+    "assemblies": [ "DW5CoalMine" ]
 }
