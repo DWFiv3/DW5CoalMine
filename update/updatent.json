@@ -1,0 +1,23 @@
+{
+    "DW5.CoalMineNT": {
+        "version": "1.0.2",
+        "changelog": [
+            {
+                "version": "1.0.3",
+                "desc": "- Fixed an issue with incoming not all being processed"
+            },   
+            {
+                "version": "1.0.2",
+                "desc": "- Added S2 for additional Mining Supplies"
+            },       
+            {
+                "version": "1.0",
+                "desc": "- Initial Public Release"
+            },            
+            {
+                "version": "0.1",
+                "desc": "- 404 Tracks not found"
+            }
+        ]
+    }
+}

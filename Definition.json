@@ -1,0 +1,26 @@
+{
+    "manifestVersion": 5,
+    "id": "DW5.CoalMine",
+    "name": "DW5's Coal Mine",
+    "version": "1.1.0",
+    "updateUrl": "https://raw.githubusercontent.com/DWFiv3/RailRoader/main/CoalMine/update/update.json",
+    "requires": [
+        {
+            "id": "railloader",
+            "notBefore": "1.8.2.1"
+        },
+        {
+            "id": "Zamu.StrangeCustoms",
+            "notBefore": "1.7.24194.2259"
+        }
+    ],
+    "conflicts": [
+        "Stormscoalyard",
+        "NicksRobinsonMineProdRate.IndustryFix"
+    ],
+    "mixintos": {
+        "game-graph": [
+            "file(DW5CoalMine.json)"
+        ]
+    }
+}

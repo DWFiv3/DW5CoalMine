@@ -1,0 +1,25 @@
+
+{
+	"Releases": [
+		{
+			"Id": "DW5CoalMineNT",
+			"Version": "1.0.3",
+			"DownloadUrl": "https://github.com/DWFiv3/RailRoader/raw/main/CoalMine/Releases/DW5.CoalMineNT_1.0.3.zip"
+		},
+		{
+			"Id": "DW5CoalMineNT",
+			"Version": "1.0.2",
+			"DownloadUrl": "https://github.com/DWFiv3/RailRoader/releases/download/v1.0.2/DWFiv3CoalMine-UMM.zip"
+		},
+		{
+			"Id": "DW5CoalMine",
+			"Version": "1.0.1",
+			"DownloadUrl": "https://github.com/DWFiv3/RailRoader/releases/download/v1.0.0/DWFiv3CoalMine.zip"
+		},
+		{
+			"Id": "DW5CoalMine",
+			"Version": "0.0.0",
+			"DownloadUrl": "https://github.com/DWFiv3/RailRoader/releases/download/v0.0.0/DWFiv3CoalMine.zip"
+		}
+	]
+}
