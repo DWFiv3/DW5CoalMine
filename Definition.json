@@ -2,7 +2,7 @@
     "manifestVersion": 5,
     "id": "DW5.CoalMine",
     "name": "DW5's Coal Mine",
-    "version": "1.1.0",
+    "version": "1.0.3",
     "updateUrl": "https://raw.githubusercontent.com/DWFiv3/RailRoader/main/CoalMine/update/update.json",
     "requires": [
         {
