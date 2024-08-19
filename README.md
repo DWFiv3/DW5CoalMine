@@ -1,6 +1,6 @@
 # **DWFiv3s Coal Mine**
 
-***v2.0.1**
+**v2.0.1**
 - Expands out the Incoming Tracks to provide well over 100 incoming cars
 - Expands mining supplies to accomidate more (you'll need it!)
 - 6 Outbound Storage Tracks, the "hump yard" now recieves the cars directly, can store over 100 cars
