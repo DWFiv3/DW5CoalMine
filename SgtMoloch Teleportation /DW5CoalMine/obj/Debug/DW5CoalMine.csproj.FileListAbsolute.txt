@@ -1,0 +1,20 @@
+C:\Users\dale\Documents\GitHub\DW5CoalMine\DW5CoalMine\obj\Debug\DW5CoalMine.csproj.AssemblyReference.cache
+C:\Users\dale\Documents\GitHub\DW5CoalMine\DW5CoalMine\obj\Debug\DW5CoalMine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dale\Documents\GitHub\DW5CoalMine\DW5CoalMine\obj\Debug\DW5CoalMine.AssemblyInfoInputs.cache
+C:\Users\dale\Documents\GitHub\DW5CoalMine\DW5CoalMine\obj\Debug\DW5CoalMine.AssemblyInfo.cs
+C:\Users\dale\Documents\GitHub\DW5CoalMine\DW5CoalMine\obj\Debug\DW5CoalMine.csproj.CoreCompileInputs.cache
+C:\Users\dale\Documents\GitHub\DW5CoalMine\DW5CoalMine\obj\Debug\DW5CoalMine.sourcelink.json
+C:\Program Files (x86)\Steam\steamapps\common\Railroader\Mods\DW5CoalMine\DW5CoalMine\obj\Debug\DW5CoalMine.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\Railroader\Mods\DW5CoalMine\DW5CoalMine\obj\Debug\DW5CoalMine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\Railroader\Mods\DW5CoalMine\DW5CoalMine\obj\Debug\DW5CoalMine.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Railroader\Mods\DW5CoalMine\DW5CoalMine\obj\Debug\DW5CoalMine.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\Railroader\Mods\DW5CoalMine\DW5CoalMine\obj\Debug\DW5CoalMine.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Railroader\Mods\DW5CoalMine\Definition.json
+C:\Program Files (x86)\Steam\steamapps\common\Railroader\Mods\DW5CoalMine\DW5CoalMine.json
+C:\Program Files (x86)\Steam\steamapps\common\Railroader\Mods\DW5CoalMine\info.json
+C:\Program Files (x86)\Steam\steamapps\common\Railroader\Mods\DW5CoalMine\LICENSE.md
+C:\Program Files (x86)\Steam\steamapps\common\Railroader\Mods\DW5CoalMine\README.md
+C:\Program Files (x86)\Steam\steamapps\common\Railroader\Mods\DW5CoalMine\DW5CoalMine\obj\Debug\DW5CoalMine.dll
+C:\Program Files (x86)\Steam\steamapps\common\Railroader\Mods\DW5CoalMine\DW5CoalMine\obj\Debug\DW5CoalMine.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Railroader\Mods\DW5CoalMine\DW5CoalMine.dll
+C:\Program Files (x86)\Steam\steamapps\common\Railroader\Mods\DW5CoalMine\DW5CoalMine.pdb

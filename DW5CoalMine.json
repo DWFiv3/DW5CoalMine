@@ -9,7 +9,7 @@
                 "mining-supplies": 20000
               },
               "outputTermsPerDay": {
-                "coal": 8000000
+                "coal": 10000000
               }
             },
             "tele": {
@@ -40,7 +40,7 @@
                   "$add": "DW5RCMI10"
                 }
               ],
-              "maxStorage": 5000000,
+              "maxStorage": 8000000,
               "inputSpans": [
                 {
                   "$add": "DW5RCMI3"
@@ -89,7 +89,9 @@
                 {
                   "$add": "DW5RCMS2"
                 }
-              ]
+              ],
+              "maxStorage": 250000.0,
+              "carTransferRate": 150000.0
             }
           }
         }
@@ -412,22 +414,9 @@
       },
       "DW5Node_nbgw": {
         "position": {
-          "x": 1441.25085,
-          "y": 598.189331,
-          "z": 2023.028
-        },
-        "rotation": {
-          "x": 0.003013505,
-          "y": 66.5081253,
-          "z": 8.04581646E-08
-        },
-        "flipSwitchStand": false
-      },
-      "DW5Node_6vi3": {
-        "position": {
-          "x": 1547.62134,
-          "y": 598.18396,
-          "z": 2069.2605
+          "x": 1547.63611,
+          "y": 598.1829,
+          "z": 2069.26782
         },
         "rotation": {
           "x": 0.003013505,
@@ -799,6 +788,110 @@
           "z": 0.423695654
         },
         "flipSwitchStand": false
+      },
+      "DW5Node_hbev": {
+        "position": {
+          "x": 1558.30908,
+          "y": 598.1834,
+          "z": 2069.872
+        },
+        "rotation": {
+          "x": 0.003013505,
+          "y": 66.5081253,
+          "z": 8.04581646E-08
+        },
+        "flipSwitchStand": false
+      },
+      "DW5Node_1tcr": {
+        "position": {
+          "x": 1556.80725,
+          "y": 598.1824,
+          "z": 2073.254
+        },
+        "rotation": {
+          "x": 0.003013505,
+          "y": 66.5081253,
+          "z": 8.04581646E-08
+        },
+        "flipSwitchStand": false
+      },
+      "DW5Node_4x4d": {
+        "position": {
+          "x": 1555.29175,
+          "y": 598.1833,
+          "z": 2076.701
+        },
+        "rotation": {
+          "x": 0.003013505,
+          "y": 66.5081253,
+          "z": 8.04581646E-08
+        },
+        "flipSwitchStand": false
+      },
+      "DW5Node_av8f": {
+        "position": {
+          "x": 1555.29175,
+          "y": 598.1833,
+          "z": 2076.701
+        },
+        "rotation": {
+          "x": 0.003013505,
+          "y": 66.5081253,
+          "z": 8.04581646E-08
+        },
+        "flipSwitchStand": false
+      },
+      "DW5Node_w7i5": {
+        "position": {
+          "x": 1553.85535,
+          "y": 598.183044,
+          "z": 2079.97363
+        },
+        "rotation": {
+          "x": 0.003013505,
+          "y": 66.5081253,
+          "z": 8.04581646E-08
+        },
+        "flipSwitchStand": false
+      },
+      "DW5Node_otui": {
+        "position": {
+          "x": 1552.50061,
+          "y": 598.1823,
+          "z": 2083.14429
+        },
+        "rotation": {
+          "x": 0.003013505,
+          "y": 66.5081253,
+          "z": 8.04581646E-08
+        },
+        "flipSwitchStand": false
+      },
+      "DW5Node_odg4": {
+        "position": {
+          "x": 1551.14661,
+          "y": 598.1822,
+          "z": 2086.29761
+        },
+        "rotation": {
+          "x": 0.003013505,
+          "y": 66.5081253,
+          "z": 8.04581646E-08
+        },
+        "flipSwitchStand": false
+      },
+      "DW5Node_hiv2": {
+        "position": {
+          "x": 1549.79211,
+          "y": 598.1822,
+          "z": 2089.41846
+        },
+        "rotation": {
+          "x": 0.003013505,
+          "y": 66.5081253,
+          "z": 8.04581646E-08
+        },
+        "flipSwitchStand": false
       }
     },
     "segments": {
@@ -1018,15 +1111,6 @@
         "speedLimit": 20,
         "groupId": ""
       },
-      "DW5Seg_vdpc": {
-        "style": "Standard",
-        "trackClass": "Mainline",
-        "startId": "DW5Node_nbgw",
-        "endId": "DW5Node_6vi3",
-        "priority": 0,
-        "speedLimit": 20,
-        "groupId": ""
-      },
       "DW5Seg_z6ju": {
         "style": "Standard",
         "trackClass": "Mainline",
@@ -1158,6 +1242,69 @@
         "trackClass": "Mainline",
         "startId": "DWNode_jqhz",
         "endId": "DWNode_hgc9",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "DW5Seg_n1y6": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "DW5Node_hu88",
+        "endId": "DW5Node_hbev",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "DW5Seg_jfxl": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "DW5Node_nbgw",
+        "endId": "DW5Node_1tcr",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "DW5Seg_tmre": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "DW5Node_564j",
+        "endId": "DW5Node_av8f",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "DW5Seg_69oy": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "DW5Node_zntw",
+        "endId": "DW5Node_w7i5",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "DW5Seg_estn": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "DW5Node_cwui",
+        "endId": "DW5Node_otui",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "DW5Seg_y6h2": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "DW5Node_7t56",
+        "endId": "DW5Node_odg4",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "DW5Seg_2snp": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "DW5Node_w5q1",
+        "endId": "DW5Node_hiv2",
         "priority": 0,
         "speedLimit": 0,
         "groupId": ""

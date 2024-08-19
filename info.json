@@ -1,9 +1,9 @@
 {
     "Id": "DW5CoalMine",
     "DisplayName": "DWFiv3's Coal Mine",
-    "Version": "1.0.3",
-	"Author": "DWFive3",
-    "ManagerVersion": "0.27.12",
+    "Version": "2.0.1",
+	"Author": "DWFiv3",
+    "ManagerVersion": "0.28.2.0",
 	"HomePage": "https://www.nexusmods.com/railroader/mods/156",
-    "Repository": "https://raw.githubusercontent.com/DWFiv3/RailRoader/main/CoalMine/update/updateumm.json"
+    "Repository": "https://raw.githubusercontent.com/DWFiv3/DW5CoalMine/main/update/updateumm.json"
 }
