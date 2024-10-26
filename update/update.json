@@ -1,7 +1,11 @@
 {
     "DW5.CoalMine": {
-        "version": "1.0.2",
+        "version": "1.2.0",
         "changelog": [
+            {
+                "version": "1.2.0",
+                "desc": "- Changed the mod so outgoing are teleported directly to the storage yards, rebranded DWFiv3 from DW5, moved update.json to dedicated repo"
+            },    
             {
                 "version": "1.0.3",
                 "desc": "- Fixed an issue with incoming not being fully processed"
